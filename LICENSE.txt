@@ -1,4 +1,6 @@
 Copyright 2026 (Holloway) Chew, Kean Ho <hello@chewkeanho.com>
+Copyright 2023 Forgejo.org (https://codeberg.org/forgejo/discussions/issues)
+Copyright 2023 Caesar Schinas <caesar@caesarschinas.com>
 
 
 Attribution-NoDerivatives 4.0 International
